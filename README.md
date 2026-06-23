@@ -10,7 +10,7 @@ I am currently working on the [Foundations](https://www.theodinproject.com/paths
 * add links
 
 # Self Reflection
-*to be reflected upon*
+The project is conceptually easy but takes quite some time to complete even for just three recipes. Also, adding the attributes to images and links take some time and effort and feels very repeating. When creating an html project, adding the content uses most of your time, but I expect using CSS to design the webiste will eventually be an OCD nightmare. Still I am excited to learn the magic of cascading style sheets!
 
 # Who am I?
 Etienne Fouche
