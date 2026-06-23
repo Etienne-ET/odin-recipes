@@ -14,4 +14,5 @@ I am currently working on the [Foundations](https://www.theodinproject.com/paths
 
 # Who am I?
 Etienne Fouche
+
 Third Year Student at Stellenbosch University: B.Sc. Computer Science, Focal Area: Data Science
